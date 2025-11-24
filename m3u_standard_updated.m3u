@@ -21,16 +21,8 @@ http://192.168.1.8:4022/udp/239.45.3.4:5140
 http://192.168.1.8:4022/udp/239.45.3.131:5140
 #EXTINF:-1 group-title="待识别频道" tvg-name="CCTV-10 科教" tvg-logo="" tvg-id="频道_3_8",CCTV-10 科教
 http://192.168.1.8:4022/udp/239.45.3.8:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_3_148" tvg-logo="" tvg-id="频道_3_148",频道_3_148 [HD]
-http://192.168.1.8:4022/udp/239.45.3.148:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_3_166" tvg-logo="" tvg-id="频道_3_166",频道_3_166 [HD]
-http://192.168.1.8:4022/udp/239.45.3.166:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_3_199" tvg-logo="" tvg-id="频道_3_199",频道_3_199 [HD]
-http://192.168.1.8:4022/udp/239.45.3.199:5140
 #EXTINF:-1 group-title="待识别频道" tvg-name="频道_3_152" tvg-logo="" tvg-id="频道_3_152",频道_3_152 [HD]
 http://192.168.1.8:4022/udp/239.45.3.152:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_3_175" tvg-logo="" tvg-id="频道_3_175",频道_3_175 [HD]
-http://192.168.1.8:4022/udp/239.45.3.175:5140
 #EXTINF:-1 group-title="待识别频道" tvg-name="江苏卫视" tvg-logo="" tvg-id="频道_3_177",江苏卫视
 http://192.168.1.8:4022/udp/239.45.3.177:5140
 #EXTINF:-1 group-title="待识别频道" tvg-name="频道_3_174" tvg-logo="" tvg-id="频道_3_174",频道_3_174 [HD]
@@ -39,21 +31,15 @@ http://192.168.1.8:4022/udp/239.45.3.174:5140
 http://192.168.1.8:4022/udp/239.45.3.133:5140
 #EXTINF:-1 group-title="待识别频道" tvg-name="频道_3_251" tvg-logo="" tvg-id="频道_3_251",频道_3_251 [HD]
 http://192.168.1.8:4022/udp/239.45.3.251:5140
-#EXTINF:-1 group-title="央视标清" tvg-name="CCTV-新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV新闻.png" tvg-id="CCTV-新闻",CCTV-新闻 (标)
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV-新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV新闻.png" tvg-id="CCTV-新闻",CCTV-新闻 (标)
 http://192.168.1.8:4022/udp/239.45.1.13:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_3_158" tvg-logo="" tvg-id="频道_3_158",频道_3_158 [HD]
-http://192.168.1.8:4022/udp/239.45.3.158:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="东方购物" tvg-logo="" tvg-id="频道_3_250",东方购物
+#EXTINF:-1 group-title="地方卫视" tvg-name="东方购物" tvg-logo="" tvg-id="频道_3_250",东方购物
 http://192.168.1.8:4022/udp/239.45.3.250:5140
-#EXTINF:-1 group-title="卫视标清" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/ws.png" tvg-id="CCTV-电视剧",CCTV-电视剧
+#EXTINF:-1 group-title="卫视标清" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/ws.png" tvg-id="CCTV-8 电视剧",CCTV-8 电视剧
 http://192.168.1.8:4022/udp/239.45.1.71:5140
-#EXTINF:-1 group-title="上海本地" tvg-name="第一财经" tvg-logo="" tvg-id="第一财经",第一财经 (标)
-http://192.168.1.8:4022/udp/239.45.1.47:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="嘉佳卡通" tvg-logo="" tvg-id="频道_1_48",嘉佳卡通
+#EXTINF:-1 group-title="待识别地方频道" tvg-name="嘉佳卡通" tvg-logo="" tvg-id="频道_1_48",嘉佳卡通
 http://192.168.1.8:4022/udp/239.45.1.48:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_106" tvg-logo="" tvg-id="频道_1_106",频道_1_106
-http://192.168.1.8:4022/udp/239.45.1.106:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="深圳卫视" tvg-logo="" tvg-id="频道_1_115",深圳卫视
+#EXTINF:-1 group-title="地方卫视" tvg-name="深圳卫视" tvg-logo="" tvg-id="频道_1_115",深圳卫视
 http://192.168.1.8:4022/udp/239.45.1.115:5140
 #EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_50" tvg-logo="" tvg-id="频道_1_50",频道_1_50
 http://192.168.1.8:4022/udp/239.45.1.50:5140
@@ -69,7 +55,7 @@ http://192.168.1.8:4022/udp/239.45.1.97:5140
 http://192.168.1.8:4022/udp/239.45.1.166:5140
 #EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_170" tvg-logo="" tvg-id="频道_1_170",频道_1_170
 http://192.168.1.8:4022/udp/239.45.1.170:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_192" tvg-logo="" tvg-id="频道_1_192",频道_1_192
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_192" tvg-logo="" tvg-id="法治天地",法治天地
 http://192.168.1.8:4022/udp/239.45.1.192:5140
 #EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_193" tvg-logo="" tvg-id="频道_1_193",频道_1_193
 http://192.168.1.8:4022/udp/239.45.1.193:5140
