@@ -35,29 +35,23 @@ http://192.168.1.8:4022/udp/239.45.1.48:5140
 http://192.168.1.8:4022/udp/239.45.1.115:5140
 #EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_50" tvg-logo="" tvg-id="频道_1_50",频道_1_50
 http://192.168.1.8:4022/udp/239.45.1.50:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_120" tvg-logo="" tvg-id="频道_1_120",频道_1_120
+#EXTINF:-1 group-title="地方卫视" tvg-name="安徽卫视" tvg-logo="" tvg-id="安徽卫视",安徽卫视
 http://192.168.1.8:4022/udp/239.45.1.120:5140
 #EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_147" tvg-logo="" tvg-id="频道_1_147",频道_1_147
 http://192.168.1.8:4022/udp/239.45.1.147:5140
 #EXTINF:-1 group-title="卫视标清" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/ws.png" tvg-id="安徽卫视",安徽卫视
 http://192.168.1.8:4022/udp/239.45.1.61:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_97" tvg-logo="" tvg-id="频道_1_97",频道_1_97
-http://192.168.1.8:4022/udp/239.45.1.97:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_166" tvg-logo="" tvg-id="频道_1_166",频道_1_166
-http://192.168.1.8:4022/udp/239.45.1.166:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_170" tvg-logo="" tvg-id="频道_1_170",频道_1_170
-http://192.168.1.8:4022/udp/239.45.1.170:5140
 #EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_192" tvg-logo="" tvg-id="法治天地",法治天地
 http://192.168.1.8:4022/udp/239.45.1.192:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_193" tvg-logo="" tvg-id="频道_1_193",频道_1_193
+#EXTINF:-1 group-title="央视频道" tvg-name="CCTV-7 国防军事[HD]" tvg-logo="" tvg-id="CCTV-7 国防军事[HD]",CCTV-7 国防军事[HD]
 http://192.168.1.8:4022/udp/239.45.1.193:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_194" tvg-logo="" tvg-id="频道_1_194",频道_1_194
+#EXTINF:-1 group-title="待识别频道" tvg-name="CGTN[HD]" tvg-logo="" tvg-id="CGTN[HD]",CGTN[HD]
 http://192.168.1.8:4022/udp/239.45.1.194:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_217" tvg-logo="" tvg-id="频道_1_217",频道_1_217
+#EXTINF:-1 group-title="地方卫视" tvg-name="浙江卫视[HD]" tvg-logo="" tvg-id="浙江卫视[HD]",浙江卫视[HD]
 http://192.168.1.8:4022/udp/239.45.1.217:5140
 #EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_227" tvg-logo="" tvg-id="频道_1_227",频道_1_227
 http://192.168.1.8:4022/udp/239.45.1.227:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_241" tvg-logo="" tvg-id="频道_1_241",频道_1_241
+#EXTINF:-1 group-title="地方卫视" tvg-name="贵州卫视[HD]" tvg-logo="" tvg-id="贵州卫视[HD]",贵州卫视[HD]
 http://192.168.1.8:4022/udp/239.45.1.241:5140
 #EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_245" tvg-logo="" tvg-id="频道_1_245",频道_1_245
 http://192.168.1.8:4022/udp/239.45.1.245:5140
