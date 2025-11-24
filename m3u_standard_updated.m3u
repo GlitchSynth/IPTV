@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
 #EXTINF:-1 group-title="待识别频道" tvg-name="信号中断" tvg-logo="" tvg-id="频道_3_149",信号中断
 http://192.168.1.8:4022/udp/239.45.3.149:5140
-#EXTINF:-1 group-title="4K频道" tvg-name="欢笑剧场" tvg-logo="" tvg-id="欢笑剧场",欢笑剧场 4K
+#EXTINF:-1 group-title="4K频道" tvg-name="欢笑剧场" tvg-logo="" tvg-id="辽宁卫视",辽宁卫视
 http://192.168.1.8:4022/udp/239.45.1.123:5140
-#EXTINF:-1 group-title="卫视标清" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/ws.png" tvg-id="东方卫视",东方卫视 (标)
+#EXTINF:-1 group-title="卫视标清" tvg-name="东方卫视" tvg-logo="" tvg-id="BesTV",BesTV·4K
 http://192.168.1.8:4022/udp/239.45.1.42:5140
 #EXTINF:-1 group-title="待识别频道" tvg-name="无台标动画频道" tvg-logo="" tvg-id="频道_3_54",无台标动画频道
 http://192.168.1.8:4022/udp/239.45.3.54:5140
