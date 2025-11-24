@@ -1,0 +1,167 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTINF:-1 group-title="待识别频道" tvg-name="信号中断" tvg-logo="" tvg-id="频道_3_149",信号中断
+http://192.168.1.8:4022/udp/239.45.3.149:5140
+#EXTINF:-1 group-title="4K频道" tvg-name="欢笑剧场" tvg-logo="" tvg-id="欢笑剧场",欢笑剧场 4K
+http://192.168.1.8:4022/udp/239.45.1.123:5140
+#EXTINF:-1 group-title="卫视标清" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/ws.png" tvg-id="东方卫视",东方卫视 (标)
+http://192.168.1.8:4022/udp/239.45.1.42:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="无台标动画频道" tvg-logo="" tvg-id="频道_3_54",无台标动画频道
+http://192.168.1.8:4022/udp/239.45.3.54:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_3_53" tvg-logo="" tvg-id="频道_3_53",频道_3_53 [HD]
+http://192.168.1.8:4022/udp/239.45.3.53:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="CCTV-17 农业农村" tvg-logo="" tvg-id="频道_3_52",CCTV-17 农业农村
+http://192.168.1.8:4022/udp/239.45.3.52:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="CCTV-12 社会与法" tvg-logo="" tvg-id="频道_3_10",CCTV-12 社会与法
+http://192.168.1.8:4022/udp/239.45.3.10:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="信号中断" tvg-logo="" tvg-id="频道_3_3",信号中断
+http://192.168.1.8:4022/udp/239.45.3.3:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="信号中断" tvg-logo="" tvg-id="频道_3_5",信号中断
+http://192.168.1.8:4022/udp/239.45.3.5:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="快乐垂钓" tvg-logo="" tvg-id="频道_3_12",快乐垂钓
+http://192.168.1.8:4022/udp/239.45.3.12:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="信号中断" tvg-logo="" tvg-id="频道_3_6",信号中断
+http://192.168.1.8:4022/udp/239.45.3.6:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_3_1" tvg-logo="" tvg-id="频道_3_1",频道_3_1 [HD]
+http://192.168.1.8:4022/udp/239.45.3.1:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="CCTV-9 纪录" tvg-logo="" tvg-id="频道_3_4",CCTV-9 纪录
+http://192.168.1.8:4022/udp/239.45.3.4:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="游戏风云" tvg-logo="" tvg-id="频道_3_131",游戏风云
+http://192.168.1.8:4022/udp/239.45.3.131:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="CCTV-10 科教" tvg-logo="" tvg-id="频道_3_8",CCTV-10 科教
+http://192.168.1.8:4022/udp/239.45.3.8:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="信号中断" tvg-logo="" tvg-id="频道_3_11",信号中断
+http://192.168.1.8:4022/udp/239.45.3.11:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_3_148" tvg-logo="" tvg-id="频道_3_148",频道_3_148 [HD]
+http://192.168.1.8:4022/udp/239.45.3.148:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_3_166" tvg-logo="" tvg-id="频道_3_166",频道_3_166 [HD]
+http://192.168.1.8:4022/udp/239.45.3.166:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_3_199" tvg-logo="" tvg-id="频道_3_199",频道_3_199 [HD]
+http://192.168.1.8:4022/udp/239.45.3.199:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_3_152" tvg-logo="" tvg-id="频道_3_152",频道_3_152 [HD]
+http://192.168.1.8:4022/udp/239.45.3.152:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="信号中断" tvg-logo="" tvg-id="频道_3_168",信号中断
+http://192.168.1.8:4022/udp/239.45.3.168:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_3_175" tvg-logo="" tvg-id="频道_3_175",频道_3_175 [HD]
+http://192.168.1.8:4022/udp/239.45.3.175:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="江苏卫视" tvg-logo="" tvg-id="频道_3_177",江苏卫视
+http://192.168.1.8:4022/udp/239.45.3.177:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_3_174" tvg-logo="" tvg-id="频道_3_174",频道_3_174 [HD]
+http://192.168.1.8:4022/udp/239.45.3.174:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_3_133" tvg-logo="" tvg-id="频道_3_133",频道_3_133 [HD]
+http://192.168.1.8:4022/udp/239.45.3.133:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_3_251" tvg-logo="" tvg-id="频道_3_251",频道_3_251 [HD]
+http://192.168.1.8:4022/udp/239.45.3.251:5140
+#EXTINF:-1 group-title="央视标清" tvg-name="CCTV-新闻" tvg-logo="https://live.fanmingming.com/tv/CCTV新闻.png" tvg-id="CCTV-新闻",CCTV-新闻 (标)
+http://192.168.1.8:4022/udp/239.45.1.13:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_3_158" tvg-logo="" tvg-id="频道_3_158",频道_3_158 [HD]
+http://192.168.1.8:4022/udp/239.45.3.158:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="东方购物" tvg-logo="" tvg-id="频道_3_250",东方购物
+http://192.168.1.8:4022/udp/239.45.3.250:5140
+#EXTINF:-1 group-title="卫视标清" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/ws.png" tvg-id="湖北卫视",湖北卫视
+http://192.168.1.8:4022/udp/239.45.1.71:5140
+#EXTINF:-1 group-title="上海本地" tvg-name="第一财经" tvg-logo="" tvg-id="第一财经",第一财经 (标)
+http://192.168.1.8:4022/udp/239.45.1.47:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="嘉佳卡通" tvg-logo="" tvg-id="频道_1_48",嘉佳卡通
+http://192.168.1.8:4022/udp/239.45.1.48:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_106" tvg-logo="" tvg-id="频道_1_106",频道_1_106
+http://192.168.1.8:4022/udp/239.45.1.106:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="信号中断" tvg-logo="" tvg-id="频道_1_34",信号中断
+http://192.168.1.8:4022/udp/239.45.1.34:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="深圳卫视" tvg-logo="" tvg-id="频道_1_115",深圳卫视
+http://192.168.1.8:4022/udp/239.45.1.115:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_50" tvg-logo="" tvg-id="频道_1_50",频道_1_50
+http://192.168.1.8:4022/udp/239.45.1.50:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_120" tvg-logo="" tvg-id="频道_1_120",频道_1_120
+http://192.168.1.8:4022/udp/239.45.1.120:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_147" tvg-logo="" tvg-id="频道_1_147",频道_1_147
+http://192.168.1.8:4022/udp/239.45.1.147:5140
+#EXTINF:-1 group-title="卫视标清" tvg-name="安徽卫视" tvg-logo="https://live.fanmingming.com/tv/ws.png" tvg-id="安徽卫视",安徽卫视
+http://192.168.1.8:4022/udp/239.45.1.61:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_97" tvg-logo="" tvg-id="频道_1_97",频道_1_97
+http://192.168.1.8:4022/udp/239.45.1.97:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_166" tvg-logo="" tvg-id="频道_1_166",频道_1_166
+http://192.168.1.8:4022/udp/239.45.1.166:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_170" tvg-logo="" tvg-id="频道_1_170",频道_1_170
+http://192.168.1.8:4022/udp/239.45.1.170:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_192" tvg-logo="" tvg-id="频道_1_192",频道_1_192
+http://192.168.1.8:4022/udp/239.45.1.192:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_193" tvg-logo="" tvg-id="频道_1_193",频道_1_193
+http://192.168.1.8:4022/udp/239.45.1.193:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_194" tvg-logo="" tvg-id="频道_1_194",频道_1_194
+http://192.168.1.8:4022/udp/239.45.1.194:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_217" tvg-logo="" tvg-id="频道_1_217",频道_1_217
+http://192.168.1.8:4022/udp/239.45.1.217:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_227" tvg-logo="" tvg-id="频道_1_227",频道_1_227
+http://192.168.1.8:4022/udp/239.45.1.227:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_241" tvg-logo="" tvg-id="频道_1_241",频道_1_241
+http://192.168.1.8:4022/udp/239.45.1.241:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_245" tvg-logo="" tvg-id="频道_1_245",频道_1_245
+http://192.168.1.8:4022/udp/239.45.1.245:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_249" tvg-logo="" tvg-id="频道_1_249",频道_1_249
+http://192.168.1.8:4022/udp/239.45.1.249:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_238" tvg-logo="" tvg-id="频道_1_238",频道_1_238
+http://192.168.1.8:4022/udp/239.45.1.238:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_244" tvg-logo="" tvg-id="频道_1_244",频道_1_244
+http://192.168.1.8:4022/udp/239.45.1.244:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_250" tvg-logo="" tvg-id="频道_1_250",频道_1_250
+http://192.168.1.8:4022/udp/239.45.1.250:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_182" tvg-logo="" tvg-id="频道_1_182",频道_1_182
+http://192.168.1.8:4022/udp/239.45.1.182:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_5" tvg-logo="" tvg-id="频道_4_5",频道_4_5
+http://192.168.1.8:4022/udp/239.45.4.5:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_222" tvg-logo="" tvg-id="频道_1_222",频道_1_222
+http://192.168.1.8:4022/udp/239.45.1.222:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_38" tvg-logo="" tvg-id="频道_4_38",频道_4_38
+http://192.168.1.8:4022/udp/239.45.4.38:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_26" tvg-logo="" tvg-id="频道_4_26",频道_4_26
+http://192.168.1.8:4022/udp/239.45.4.26:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_52" tvg-logo="" tvg-id="频道_4_52",频道_4_52
+http://192.168.1.8:4022/udp/239.45.4.52:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_32" tvg-logo="" tvg-id="频道_4_32",频道_4_32
+http://192.168.1.8:4022/udp/239.45.4.32:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_41" tvg-logo="" tvg-id="频道_4_41",频道_4_41
+http://192.168.1.8:4022/udp/239.45.4.41:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_6" tvg-logo="" tvg-id="频道_4_6",频道_4_6
+http://192.168.1.8:4022/udp/239.45.4.6:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_176" tvg-logo="" tvg-id="频道_4_176",频道_4_176
+http://192.168.1.8:4022/udp/239.45.4.176:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_158" tvg-logo="" tvg-id="频道_4_158",频道_4_158
+http://192.168.1.8:4022/udp/239.45.4.158:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_159" tvg-logo="" tvg-id="频道_4_159",频道_4_159
+http://192.168.1.8:4022/udp/239.45.4.159:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_167" tvg-logo="" tvg-id="频道_4_167",频道_4_167
+http://192.168.1.8:4022/udp/239.45.4.167:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_177" tvg-logo="" tvg-id="频道_4_177",频道_4_177
+http://192.168.1.8:4022/udp/239.45.4.177:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_188" tvg-logo="" tvg-id="频道_4_188",频道_4_188
+http://192.168.1.8:4022/udp/239.45.4.188:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_189" tvg-logo="" tvg-id="频道_4_189",频道_4_189
+http://192.168.1.8:4022/udp/239.45.4.189:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_150" tvg-logo="" tvg-id="频道_4_150",频道_4_150
+http://192.168.1.8:4022/udp/239.45.4.150:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_2_30" tvg-logo="" tvg-id="频道_2_30",频道_2_30
+http://192.168.1.8:4022/udp/239.45.2.30:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_2_31" tvg-logo="" tvg-id="频道_2_31",频道_2_31
+http://192.168.1.8:4022/udp/239.45.2.31:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_2_34" tvg-logo="" tvg-id="频道_2_34",频道_2_34
+http://192.168.1.8:4022/udp/239.45.2.34:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_2_45" tvg-logo="" tvg-id="频道_2_45",频道_2_45
+http://192.168.1.8:4022/udp/239.45.2.45:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_2_28" tvg-logo="" tvg-id="频道_2_28",频道_2_28
+http://192.168.1.8:4022/udp/239.45.2.28:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_2_29" tvg-logo="" tvg-id="频道_2_29",频道_2_29
+http://192.168.1.8:4022/udp/239.45.2.29:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_2_35" tvg-logo="" tvg-id="频道_2_35",频道_2_35
+http://192.168.1.8:4022/udp/239.45.2.35:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_2_44" tvg-logo="" tvg-id="频道_2_44",频道_2_44
+http://192.168.1.8:4022/udp/239.45.2.44:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_2_193" tvg-logo="" tvg-id="频道_2_193",频道_2_193
+http://192.168.1.8:4022/udp/239.45.2.193:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_2_132" tvg-logo="" tvg-id="频道_2_132",频道_2_132
+http://192.168.1.8:4022/udp/239.45.2.132:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_2_157" tvg-logo="" tvg-id="频道_2_157",频道_2_157
+http://192.168.1.8:4022/udp/239.45.2.157:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_2_163" tvg-logo="" tvg-id="频道_2_163",频道_2_163
+http://192.168.1.8:4022/udp/239.45.2.163:5140
+#EXTINF:-1 group-title="待识别频道" tvg-name="频道_2_192" tvg-logo="" tvg-id="频道_2_192",频道_2_192
+http://192.168.1.8:4022/udp/239.45.2.192:5140
