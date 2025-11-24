@@ -27,7 +27,7 @@ http://192.168.1.8:4022/udp/239.45.3.133:5140
 http://192.168.1.8:4022/udp/239.45.3.251:5140
 #EXTINF:-1 group-title="地方卫视" tvg-name="东方购物" tvg-logo="" tvg-id="频道_3_250",东方购物
 http://192.168.1.8:4022/udp/239.45.3.250:5140
-#EXTINF:-1 group-title="卫视标清" tvg-name="湖北卫视" tvg-logo="https://live.fanmingming.com/tv/ws.png" tvg-id="CCTV-8 电视剧",CCTV-8 电视剧
+#EXTINF:-1 group-title="卫视标清" tvg-name="湖北卫视" tvg-logo="" tvg-id="CCTV-8 电视剧",CCTV-8 电视剧
 http://192.168.1.8:4022/udp/239.45.1.71:5140
 #EXTINF:-1 group-title="待识别地方频道" tvg-name="嘉佳卡通" tvg-logo="" tvg-id="频道_1_48",嘉佳卡通
 http://192.168.1.8:4022/udp/239.45.1.48:5140
@@ -49,49 +49,11 @@ http://192.168.1.8:4022/udp/239.45.1.193:5140
 http://192.168.1.8:4022/udp/239.45.1.194:5140
 #EXTINF:-1 group-title="地方卫视" tvg-name="浙江卫视[HD]" tvg-logo="" tvg-id="浙江卫视[HD]",浙江卫视[HD]
 http://192.168.1.8:4022/udp/239.45.1.217:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_227" tvg-logo="" tvg-id="频道_1_227",频道_1_227
+#EXTINF:-1 group-title="待识别频道" tvg-name="江西卫视[HD]" tvg-logo="" tvg-id="江西卫视[HD]",江西卫视[HD]
 http://192.168.1.8:4022/udp/239.45.1.227:5140
 #EXTINF:-1 group-title="地方卫视" tvg-name="贵州卫视[HD]" tvg-logo="" tvg-id="贵州卫视[HD]",贵州卫视[HD]
 http://192.168.1.8:4022/udp/239.45.1.241:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_245" tvg-logo="" tvg-id="频道_1_245",频道_1_245
-http://192.168.1.8:4022/udp/239.45.1.245:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_249" tvg-logo="" tvg-id="频道_1_249",频道_1_249
-http://192.168.1.8:4022/udp/239.45.1.249:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_238" tvg-logo="" tvg-id="频道_1_238",频道_1_238
+#EXTINF:-1 group-title="待识别频道" tvg-name="内蒙古卫视[HD]" tvg-logo="" tvg-id="内蒙古卫视[HD]",内蒙古卫视[HD]
 http://192.168.1.8:4022/udp/239.45.1.238:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_244" tvg-logo="" tvg-id="频道_1_244",频道_1_244
-http://192.168.1.8:4022/udp/239.45.1.244:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_250" tvg-logo="" tvg-id="频道_1_250",频道_1_250
-http://192.168.1.8:4022/udp/239.45.1.250:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_182" tvg-logo="" tvg-id="频道_1_182",频道_1_182
-http://192.168.1.8:4022/udp/239.45.1.182:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_5" tvg-logo="" tvg-id="频道_4_5",频道_4_5
-http://192.168.1.8:4022/udp/239.45.4.5:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_1_222" tvg-logo="" tvg-id="频道_1_222",频道_1_222
+#EXTINF:-1 group-title="地方卫视" tvg-name="辽宁卫视[HD]" tvg-logo="" tvg-id="辽宁卫视[HD]",辽宁卫视[HD]
 http://192.168.1.8:4022/udp/239.45.1.222:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_38" tvg-logo="" tvg-id="频道_4_38",频道_4_38
-http://192.168.1.8:4022/udp/239.45.4.38:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_26" tvg-logo="" tvg-id="频道_4_26",频道_4_26
-http://192.168.1.8:4022/udp/239.45.4.26:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_52" tvg-logo="" tvg-id="频道_4_52",频道_4_52
-http://192.168.1.8:4022/udp/239.45.4.52:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_32" tvg-logo="" tvg-id="频道_4_32",频道_4_32
-http://192.168.1.8:4022/udp/239.45.4.32:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_41" tvg-logo="" tvg-id="频道_4_41",频道_4_41
-http://192.168.1.8:4022/udp/239.45.4.41:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_6" tvg-logo="" tvg-id="频道_4_6",频道_4_6
-http://192.168.1.8:4022/udp/239.45.4.6:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_176" tvg-logo="" tvg-id="频道_4_176",频道_4_176
-http://192.168.1.8:4022/udp/239.45.4.176:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_158" tvg-logo="" tvg-id="频道_4_158",频道_4_158
-http://192.168.1.8:4022/udp/239.45.4.158:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_159" tvg-logo="" tvg-id="频道_4_159",频道_4_159
-http://192.168.1.8:4022/udp/239.45.4.159:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_167" tvg-logo="" tvg-id="频道_4_167",频道_4_167
-http://192.168.1.8:4022/udp/239.45.4.167:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_177" tvg-logo="" tvg-id="频道_4_177",频道_4_177
-http://192.168.1.8:4022/udp/239.45.4.177:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_188" tvg-logo="" tvg-id="频道_4_188",频道_4_188
-http://192.168.1.8:4022/udp/239.45.4.188:5140
-#EXTINF:-1 group-title="待识别频道" tvg-name="频道_4_189" tvg-logo="" tvg-id="频道_4_189",频道_4_189
-http://192.168.1.8:4022/udp/239.45.4.189:5140
