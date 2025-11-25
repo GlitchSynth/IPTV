@@ -4,13 +4,13 @@
 http://192.168.1.8:4022/udp/239.45.1.123:5140
 #EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="BesTV" tvg-logo="https://i.imgur.com/tvg/BesTV.png" tvg-id="BesTV",BesTV
 http://192.168.1.8:4022/udp/239.45.1.42:5140
-#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-17 农业农村" tvg-logo="https://i.imgur.com/tvg/CCTV17.png" tvg-id="CCTV17",CCTV-17 农业农村 [SD]
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-17 农业农村" tvg-logo="https://i.imgur.com/tvg/CCTV17.png" tvg-id="CCTV17",CCTV-17 农业农村
 http://192.168.1.8:4022/udp/239.45.3.52:5140
 #EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-12 社会与法" tvg-logo="https://i.imgur.com/tvg/CCTV12.png" tvg-id="CCTV12",CCTV-12 社会与法
 http://192.168.1.8:4022/udp/239.45.3.10:5140
 #EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="快乐垂钓" tvg-logo="https://i.imgur.com/tvg/klcd.png" tvg-id="KLCD",快乐垂钓
 http://192.168.1.8:4022/udp/239.45.3.12:5140
-#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-17 农业农村 [HD]" tvg-logo="https://i.imgur.com/tvg/CCTV17_HD.png" tvg-id="CCTV17",CCTV-17 农业农村 [HD]
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-17 农业农村 [SD]" tvg-logo="https://i.imgur.com/tvg/CCTV17.png" tvg-id="CCTV17",CCTV-17 农业农村 [SD]
 http://192.168.1.8:4022/udp/239.45.3.1:5140
 #EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-9 纪录" tvg-logo="https://i.imgur.com/tvg/CCTV9.png" tvg-id="CCTV9",CCTV-9 纪录
 http://192.168.1.8:4022/udp/239.45.3.4:5140
@@ -52,102 +52,66 @@ http://192.168.1.8:4022/udp/239.45.1.241:5140
 http://192.168.1.8:4022/udp/239.45.1.238:5140
 #EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="辽宁卫视 [HD]" tvg-logo="https://i.imgur.com/tvg/LNTV_HD.png" tvg-id="LNTV",辽宁卫视 [HD]
 http://192.168.1.8:4022/udp/239.45.1.222:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_210",未知频道_1.210 [SD]
-http://192.168.1.8:4022/udp/239.45.1.210:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_208",未知频道_1.208 [SD]
-http://192.168.1.8:4022/udp/239.45.1.208:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_206",未知频道_1.206 [SD]
-http://192.168.1.8:4022/udp/239.45.1.206:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_211",未知频道_1.211 [SD]
-http://192.168.1.8:4022/udp/239.45.1.211:5140
 #EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="江苏卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/JSTV.png" tvg-id="JSTV",江苏卫视 [SD]
 http://192.168.1.8:4022/udp/239.45.1.216:5140
 #EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="湖南卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/HNTV.png" tvg-id="HNTV",湖南卫视 [SD]
 http://192.168.1.8:4022/udp/239.45.1.215:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_218",未知频道_1.218 [SD]
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="海南卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/HNWTV.png" tvg-id="HNWTV",海南卫视 [SD]
 http://192.168.1.8:4022/udp/239.45.1.218:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_214",未知频道_1.214 [SD]
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="北京卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/BTV.png" tvg-id="BTV",北京卫视 [SD]
 http://192.168.1.8:4022/udp/239.45.1.214:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_229",未知频道_1.229 [SD]
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="山西卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/SXTV.png" tvg-id="SXTV",山西卫视 [SD]
 http://192.168.1.8:4022/udp/239.45.1.229:5140
 #EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="青海卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/QHTV.png" tvg-id="QHTV",青海卫视 [SD]
 http://192.168.1.8:4022/udp/239.45.1.230:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_226",未知频道_1.226 [SD]
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="天津卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/TJTV.png" tvg-id="TJTV",天津卫视 [SD]
 http://192.168.1.8:4022/udp/239.45.1.226:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_231",未知频道_1.231 [SD]
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="西藏卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/XZTV.png" tvg-id="XZTV",西藏卫视 [SD]
 http://192.168.1.8:4022/udp/239.45.1.231:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_235",未知频道_1.235 [SD]
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="广东卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/GDTV.png" tvg-id="GDTV",广东卫视 [SD]
 http://192.168.1.8:4022/udp/239.45.1.235:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_236",未知频道_1.236 [SD]
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="新疆卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/XJTV.png" tvg-id="XJTV",新疆卫视 [SD]
 http://192.168.1.8:4022/udp/239.45.1.236:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_234",未知频道_1.234 [SD]
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="甘肃卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/GSTV.png" tvg-id="GSTV",甘肃卫视 [SD]
 http://192.168.1.8:4022/udp/239.45.1.234:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_237",未知频道_1.237 [SD]
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="河北卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/HBWTV.png" tvg-id="HBWTV",河北卫视 [SD]
 http://192.168.1.8:4022/udp/239.45.1.237:5140
 #EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="湖北卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/HBTV.png" tvg-id="HBTV",湖北卫视 [SD]
 http://192.168.1.8:4022/udp/239.45.1.239:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_242",未知频道_1.242 [SD]
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="河南卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/HATV.png" tvg-id="HATV",河南卫视 [SD]
 http://192.168.1.8:4022/udp/239.45.1.242:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_240",未知频道_1.240 [SD]
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="重庆卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/CQTV.png" tvg-id="CQTV",重庆卫视 [SD]
 http://192.168.1.8:4022/udp/239.45.1.240:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_243",未知频道_1.243 [HD]
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="CETV-4 [Backup]" tvg-logo="https://i.imgur.com/tvg/CETV4.png" tvg-id="CETV4",CETV-4 [Backup]
 http://192.168.1.8:4022/udp/239.45.1.243:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_244",未知频道_1.244 [SD]
-http://192.168.1.8:4022/udp/239.45.1.244:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_247",未知频道_1.247 [SD]
-http://192.168.1.8:4022/udp/239.45.1.247:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_253",未知频道_1.253 [SD]
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="好享购物 [SD]" tvg-logo="https://i.imgur.com/tvg/HXGW.png" tvg-id="HXGW",好享购物 [SD]
 http://192.168.1.8:4022/udp/239.45.1.253:5140
 #EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-9 纪录 [SD]" tvg-logo="https://i.imgur.com/tvg/CCTV9.png" tvg-id="CCTV9",CCTV-9 纪录 [SD]
 http://192.168.1.8:4022/udp/239.45.3.2:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_3_7",未知频道_3.7 [SD]
-http://192.168.1.8:4022/udp/239.45.3.7:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_3_6",未知频道_3.6 [SD]
-http://192.168.1.8:4022/udp/239.45.3.6:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_3_3",未知频道_3.3 [SD]
-http://192.168.1.8:4022/udp/239.45.3.3:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_CH1SD",CH1-sd [SD]
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="党员干部远程教育" tvg-logo="" tvg-id="DYGB",党员干部远程教育 [SD]
 http://192.168.1.8:4022/udp/239.45.3.9:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_3_11",未知频道_3.11 [SD]
-http://192.168.1.8:4022/udp/239.45.3.11:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_3_20",未知频道_3.20 [SD]
-http://192.168.1.8:4022/udp/239.45.3.20:5140
 #EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-3 综艺 [SD]" tvg-logo="https://i.imgur.com/tvg/CCTV3.png" tvg-id="CCTV3",CCTV-3 综艺 [SD]
 http://192.168.1.8:4022/udp/239.45.3.27:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_3_29",未知频道_3.29 [SD]
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-5 体育 [SD]" tvg-logo="https://i.imgur.com/tvg/CCTV5.png" tvg-id="CCTV5",CCTV-5 体育 [SD]
 http://192.168.1.8:4022/udp/239.45.3.29:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_3_32",未知频道_3.32 [SD]
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-8 电视剧 [SD]" tvg-logo="https://i.imgur.com/tvg/CCTV8.png" tvg-id="CCTV8",CCTV-8 电视剧 [SD]
 http://192.168.1.8:4022/udp/239.45.3.32:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_3_41",未知频道_3.41 [SD]
-http://192.168.1.8:4022/udp/239.45.3.41:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_3_49",未知频道_3.49 [SD]
-http://192.168.1.8:4022/udp/239.45.3.49:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_3_50",未知频道_3.50 [SD]
-http://192.168.1.8:4022/udp/239.45.3.50:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_3_51",未知频道_3.51 [SD]
-http://192.168.1.8:4022/udp/239.45.3.51:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_1",未知频道_1.1 [HD]
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="BesTV-卡通 [4K]" tvg-logo="https://i.imgur.com/tvg/BesTV.png" tvg-id="BesTV_KT",BesTV-卡通 [4K]
 http://192.168.1.8:4022/udp/239.45.1.1:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_10",未知频道_1.10 [HD]
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="BesTV-记录 [4K]" tvg-logo="https://i.imgur.com/tvg/BesTV.png" tvg-id="BesTV_JL",BesTV-记录 [4K]
 http://192.168.1.8:4022/udp/239.45.1.10:5140
 #EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="BRTV-纪实科教" tvg-logo="https://i.imgur.com/tvg/BRTV_JSSK.png" tvg-id="BRTVJS",BRTV-纪实科教
 http://192.168.1.8:4022/udp/239.45.1.14:5140
 #EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-1 综合" tvg-logo="https://i.imgur.com/tvg/CCTV1.png" tvg-id="CCTV1",CCTV-1 综合
 http://192.168.1.8:4022/udp/239.45.1.21:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_15",未知频道_1.15 [HD]
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="BesTV-电影" tvg-logo="https://i.imgur.com/tvg/BesTV.png" tvg-id="BesTV_DY",BesTV-电影
 http://192.168.1.8:4022/udp/239.45.1.15:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_26",未知频道_1.26 [SD]
-http://192.168.1.8:4022/udp/239.45.1.26:5140
 #EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="四川卫视" tvg-logo="https://i.imgur.com/tvg/SCTV.png" tvg-id="SCTV",四川卫视
 http://192.168.1.8:4022/udp/239.45.1.23:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_27",未知频道_1.27 [SD]
-http://192.168.1.8:4022/udp/239.45.1.27:5140
 #EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="BesTV [Backup]" tvg-logo="https://i.imgur.com/tvg/BesTV.png" tvg-id="BesTV",BesTV [Backup]
 http://192.168.1.8:4022/udp/239.45.1.29:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_28",未知频道_1.28 [HD]
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="养生节目" tvg-logo="" tvg-id="YSJM",养生节目
 http://192.168.1.8:4022/udp/239.45.1.28:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-logo="" tvg-id="UNK_1_38",未知频道_1.38 [SD]
-http://192.168.1.8:4022/udp/239.45.1.38:5140
 #EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="河北卫视" tvg-logo="https://i.imgur.com/tvg/HBWTV.png" tvg-id="HBWTV",河北卫视
 http://192.168.1.8:4022/udp/239.45.1.44:5140
 #EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="BRTV [SD]" tvg-logo="https://i.imgur.com/tvg/BRTV.png" tvg-id="BRTV",BRTV [SD]
@@ -158,9 +122,9 @@ http://192.168.1.8:4022/udp/239.45.1.45:5140
 http://192.168.1.8:4022/udp/239.45.1.46:5140
 #EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="哈哈炫动" tvg-logo="https://i.imgur.com/tvg/HHXD.png" tvg-id="HHXD",哈哈炫动
 http://192.168.1.8:4022/udp/239.45.1.55:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-name="CCTV-高尔夫·网球" tvg-logo="https://i.imgur.com/tvg/CCTV_GNTQ.png" tvg-id="CCTV_GNTQ",CCTV-高尔夫·网球
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-高尔夫·网球" tvg-logo="https://i.imgur.com/tvg/CCTV_GNTQ.png" tvg-id="CCTV_GNTQ",CCTV-高尔夫·网球
 http://192.168.1.8:4022/udp/239.45.1.72:5140
-#EXTINF:-1 group-title="❓ 待分类" tvg-name="CCTV-风云足球" tvg-logo="https://i.imgur.com/tvg/CCTV_FYZQ.png" tvg-id="CCTV_FYZQ",CCTV-风云足球
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-风云足球" tvg-logo="https://i.imgur.com/tvg/CCTV_FYZQ.png" tvg-id="CCTV_FYZQ",CCTV-风云足球
 http://192.168.1.8:4022/udp/239.45.1.75:5140
 #EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-兵器科技" tvg-logo="https://i.imgur.com/tvg/CCTV_BQKJ.png" tvg-id="CCTV_BQKJ",CCTV-兵器科技
 http://192.168.1.8:4022/udp/239.45.1.74:5140
