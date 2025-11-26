@@ -1,0 +1,140 @@
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="辽宁卫视" tvg-logo="https://i.imgur.com/tvg/LNTV.png" tvg-id="LNTV",辽宁卫视
+http://192.168.1.8:4022/udp/239.45.1.123:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="BesTV" tvg-logo="https://i.imgur.com/tvg/BesTV.png" tvg-id="BesTV",BesTV
+http://192.168.1.8:4022/udp/239.45.1.42:5140
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-17 农业农村" tvg-logo="https://i.imgur.com/tvg/CCTV17.png" tvg-id="CCTV17",CCTV-17 农业农村
+http://192.168.1.8:4022/udp/239.45.3.52:5140
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-12 社会与法" tvg-logo="https://i.imgur.com/tvg/CCTV12.png" tvg-id="CCTV12",CCTV-12 社会与法
+http://192.168.1.8:4022/udp/239.45.3.10:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="快乐垂钓" tvg-logo="https://i.imgur.com/tvg/klcd.png" tvg-id="KLCD",快乐垂钓
+http://192.168.1.8:4022/udp/239.45.3.12:5140
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-17 农业农村 [SD]" tvg-logo="https://i.imgur.com/tvg/CCTV17.png" tvg-id="CCTV17_SD",CCTV-17 农业农村 [SD]
+http://192.168.1.8:4022/udp/239.45.3.1:5140
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-9 纪录" tvg-logo="https://i.imgur.com/tvg/CCTV9.png" tvg-id="CCTV9",CCTV-9 纪录
+http://192.168.1.8:4022/udp/239.45.3.4:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="游戏风云" tvg-logo="https://i.imgur.com/tvg/yxfy.png" tvg-id="YXFY",游戏风云
+http://192.168.1.8:4022/udp/239.45.3.131:5140
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-10 科教" tvg-logo="https://i.imgur.com/tvg/CCTV10.png" tvg-id="CCTV10",CCTV-10 科教
+http://192.168.1.8:4022/udp/239.45.3.8:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="江苏卫视" tvg-logo="https://i.imgur.com/tvg/JSTV.png" tvg-id="JSTV",江苏卫视
+http://192.168.1.8:4022/udp/239.45.3.177:5140
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-17 农业农村 [Backup]" tvg-logo="https://i.imgur.com/tvg/CCTV17.png" tvg-id="CCTV17_Backup",CCTV-17 农业农村 [Backup]
+http://192.168.1.8:4022/udp/239.45.3.251:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="东方购物" tvg-logo="https://i.imgur.com/tvg/dfgw.png" tvg-id="DFGW",东方购物
+http://192.168.1.8:4022/udp/239.45.3.250:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="湖北卫视" tvg-logo="https://i.imgur.com/tvg/HBTV.png" tvg-id="HBTV",湖北卫视
+http://192.168.1.8:4022/udp/239.45.1.71:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="嘉佳卡通" tvg-logo="https://i.imgur.com/tvg/jjkt.png" tvg-id="JJKT",嘉佳卡通
+http://192.168.1.8:4022/udp/239.45.1.48:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="深圳卫视" tvg-logo="https://i.imgur.com/tvg/SZTV.png" tvg-id="SZTV",深圳卫视
+http://192.168.1.8:4022/udp/239.45.1.115:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="CETV-4" tvg-logo="https://i.imgur.com/tvg/CETV4.png" tvg-id="CETV4",CETV-4
+http://192.168.1.8:4022/udp/239.45.1.50:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="安徽卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/AHTV.png" tvg-id="AHTV_SD",安徽卫视 [SD]
+http://192.168.1.8:4022/udp/239.45.1.120:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="安徽卫视 [HD]" tvg-logo="https://live.fanmingming.com/tv/ws.png" tvg-id="AHTV_HD",安徽卫视 [HD]
+http://192.168.1.8:4022/udp/239.45.1.61:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="法治天地" tvg-logo="https://i.imgur.com/tvg/fztddy.png" tvg-id="FZTD",法治天地
+http://192.168.1.8:4022/udp/239.45.1.192:5140
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-7 国防军事 [HD]" tvg-logo="https://i.imgur.com/tvg/CCTV7_HD.png" tvg-id="CCTV7",CCTV-7 国防军事 [HD]
+http://192.168.1.8:4022/udp/239.45.1.193:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="CGTN [HD]" tvg-logo="https://i.imgur.com/tvg/CGTN_HD.png" tvg-id="CGTN",CGTN [HD]
+http://192.168.1.8:4022/udp/239.45.1.194:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="浙江卫视 [HD]" tvg-logo="https://i.imgur.com/tvg/ZJTV_HD.png" tvg-id="ZJTV_HD",浙江卫视 [HD]
+http://192.168.1.8:4022/udp/239.45.1.217:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="江西卫视 [HD]" tvg-logo="https://i.imgur.com/tvg/JXTV_HD.png" tvg-id="JXTV_HD",江西卫视 [HD]
+http://192.168.1.8:4022/udp/239.45.1.227:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="贵州卫视 [HD]" tvg-logo="https://i.imgur.com/tvg/GZTV_HD.png" tvg-id="GZTV_HD",贵州卫视 [HD]
+http://192.168.1.8:4022/udp/239.45.1.241:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="内蒙古卫视 [HD]" tvg-logo="https://i.imgur.com/tvg/NMGT_HD.png" tvg-id="NMGT_HD",内蒙古卫视 [HD]
+http://192.168.1.8:4022/udp/239.45.1.238:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="辽宁卫视 [HD]" tvg-logo="https://i.imgur.com/tvg/LNTV_HD.png" tvg-id="LNTV_HD",辽宁卫视 [HD]
+http://192.168.1.8:4022/udp/239.45.1.222:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="江苏卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/JSTV.png" tvg-id="JSTV_SD",江苏卫视 [SD]
+http://192.168.1.8:4022/udp/239.45.1.216:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="湖南卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/HNTV.png" tvg-id="HNTV_SD",湖南卫视 [SD]
+http://192.168.1.8:4022/udp/239.45.1.215:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="海南卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/HNWTV.png" tvg-id="HNWTV_SD",海南卫视 [SD]
+http://192.168.1.8:4022/udp/239.45.1.218:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="北京卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/BTV.png" tvg-id="BTV_SD",北京卫视 [SD]
+http://192.168.1.8:4022/udp/239.45.1.214:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="山西卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/SXTV.png" tvg-id="SXTV_SD",山西卫视 [SD]
+http://192.168.1.8:4022/udp/239.45.1.229:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="青海卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/QHTV.png" tvg-id="QHTV_SD",青海卫视 [SD]
+http://192.168.1.8:4022/udp/239.45.1.230:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="天津卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/TJTV.png" tvg-id="TJTV_SD",天津卫视 [SD]
+http://192.168.1.8:4022/udp/239.45.1.226:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="西藏卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/XZTV.png" tvg-id="XZTV_SD",西藏卫视 [SD]
+http://192.168.1.8:4022/udp/239.45.1.231:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="广东卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/GDTV.png" tvg-id="GDTV_SD",广东卫视 [SD]
+http://192.168.1.8:4022/udp/239.45.1.235:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="新疆卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/XJTV.png" tvg-id="XJTV_SD",新疆卫视 [SD]
+http://192.168.1.8:4022/udp/239.45.1.236:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="甘肃卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/GSTV.png" tvg-id="GSTV_SD",甘肃卫视 [SD]
+http://192.168.1.8:4022/udp/239.45.1.234:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="河北卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/HBWTV.png" tvg-id="HBWTV_SD",河北卫视 [SD]
+http://192.168.1.8:4022/udp/239.45.1.237:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="湖北卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/HBTV.png" tvg-id="HBTV_SD",湖北卫视 [SD]
+http://192.168.1.8:4022/udp/239.45.1.239:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="河南卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/HATV.png" tvg-id="HATV_SD",河南卫视 [SD]
+http://192.168.1.8:4022/udp/239.45.1.242:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="重庆卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/CQTV.png" tvg-id="CQTV_SD",重庆卫视 [SD]
+http://192.168.1.8:4022/udp/239.45.1.240:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="CETV-4 [Backup]" tvg-logo="https://i.imgur.com/tvg/CETV4.png" tvg-id="CETV4_Backup",CETV-4 [Backup]
+http://192.168.1.8:4022/udp/239.45.1.243:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="好享购物 [SD]" tvg-logo="https://i.imgur.com/tvg/HXGW.png" tvg-id="HXGW_SD",好享购物 [SD]
+http://192.168.1.8:4022/udp/239.45.1.253:5140
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-9 纪录 [SD]" tvg-logo="https://i.imgur.com/tvg/CCTV9.png" tvg-id="CCTV9_SD",CCTV-9 纪录 [SD]
+http://192.168.1.8:4022/udp/239.45.3.2:5140
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="党员干部远程教育" tvg-logo="" tvg-id="DYGB",党员干部远程教育 [SD]
+http://192.168.1.8:4022/udp/239.45.3.9:5140
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-3 综艺 [SD]" tvg-logo="https://i.imgur.com/tvg/CCTV3.png" tvg-id="CCTV3_SD",CCTV-3 综艺 [SD]
+http://192.168.1.8:4022/udp/239.45.3.27:5140
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-5 体育 [SD]" tvg-logo="https://i.imgur.com/tvg/CCTV5.png" tvg-id="CCTV5_SD",CCTV-5 体育 [SD]
+http://192.168.1.8:4022/udp/239.45.3.29:5140
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-8 电视剧 [SD]" tvg-logo="https://i.imgur.com/tvg/CCTV8.png" tvg-id="CCTV8_SD",CCTV-8 电视剧 [SD]
+http://192.168.1.8:4022/udp/239.45.3.32:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="BesTV-卡通 [4K]" tvg-logo="https://i.imgur.com/tvg/BesTV.png" tvg-id="BesTV_KT",BesTV-卡通 [4K]
+http://192.168.1.8:4022/udp/239.45.1.1:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="BesTV-记录 [4K]" tvg-logo="https://i.imgur.com/tvg/BesTV.png" tvg-id="BesTV_JL",BesTV-记录 [4K]
+http://192.168.1.8:4022/udp/239.45.1.10:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="BRTV-纪实科教" tvg-logo="https://i.imgur.com/tvg/BRTV_JSSK.png" tvg-id="BRTVJS",BRTV-纪实科教
+http://192.168.1.8:4022/udp/239.45.1.14:5140
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-1 综合" tvg-logo="https://i.imgur.com/tvg/CCTV1.png" tvg-id="CCTV1",CCTV-1 综合
+http://192.168.1.8:4022/udp/239.45.1.21:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="BesTV-电影" tvg-logo="https://i.imgur.com/tvg/BesTV.png" tvg-id="BesTV_DY",BesTV-电影
+http://192.168.1.8:4022/udp/239.45.1.15:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="四川卫视" tvg-logo="https://i.imgur.com/tvg/SCTV.png" tvg-id="SCTV",四川卫视
+http://192.168.1.8:4022/udp/239.45.1.23:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="BesTV [Backup]" tvg-logo="https://i.imgur.com/tvg/BesTV.png" tvg-id="BesTV_Backup",BesTV [Backup]
+http://192.168.1.8:4022/udp/239.45.1.29:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="养生节目" tvg-logo="" tvg-id="YSJM",养生节目
+http://192.168.1.8:4022/udp/239.45.1.28:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="河北卫视" tvg-logo="https://i.imgur.com/tvg/HBWTV.png" tvg-id="HBWTV",河北卫视
+http://192.168.1.8:4022/udp/239.45.1.44:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="BRTV [SD]" tvg-logo="https://i.imgur.com/tvg/BRTV.png" tvg-id="BRTV",BRTV [SD]
+http://192.168.1.8:4022/udp/239.45.1.49:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="金鹰纪实" tvg-logo="https://i.imgur.com/tvg/JYJS.png" tvg-id="JYJS",金鹰纪实
+http://192.168.1.8:4022/udp/239.45.1.45:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="法治天地 [Backup]" tvg-logo="https://i.imgur.com/tvg/fztddy.png" tvg-id="FZTD_Backup",法治天地 [Backup]
+http://192.168.1.8:4022/udp/239.45.1.46:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="哈哈炫动" tvg-logo="https://i.imgur.com/tvg/HHXD.png" tvg-id="HHXD",哈哈炫动
+http://192.168.1.8:4022/udp/239.45.1.55:5140
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-高尔夫·网球" tvg-logo="https://i.imgur.com/tvg/CCTV_GNTQ.png" tvg-id="CCTV_GNTQ",CCTV-高尔夫·网球
+http://192.168.1.8:4022/udp/239.45.1.72:5140
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-风云足球" tvg-logo="https://i.imgur.com/tvg/CCTV_FYZQ.png" tvg-id="CCTV_FYZQ",CCTV-风云足球
+http://192.168.1.8:4022/udp/239.45.1.75:5140
+#EXTINF:-1 group-title="📡 央视频道" tvg-name="CCTV-兵器科技" tvg-logo="https://i.imgur.com/tvg/CCTV_BQKJ.png" tvg-id="CCTV_BQKJ",CCTV-兵器科技
+http://192.168.1.8:4022/udp/239.45.1.74:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="贵州卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/GZTV.png" tvg-id="GZTV_SD",贵州卫视 [SD]
+http://192.168.1.8:4022/udp/239.45.1.80:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="海南卫视" tvg-logo="https://i.imgur.com/tvg/HNWTV.png" tvg-id="HNWTV",海南卫视
+http://192.168.1.8:4022/udp/239.45.1.81:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="三沙卫视 [SD]" tvg-logo="https://i.imgur.com/tvg/SSTV.png" tvg-id="SSTV_SD",三沙卫视 [SD]
+http://192.168.1.8:4022/udp/239.45.1.82:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="重庆卫视" tvg-logo="https://i.imgur.com/tvg/CQTV.png" tvg-id="CQTV",重庆卫视
+http://192.168.1.8:4022/udp/239.45.1.84:5140
+#EXTINF:-1 group-title="🏙️ 省级卫视" tvg-name="金鹰卡通" tvg-logo="https://i.imgur.com/tvg/HNWTV.png" tvg-id="金鹰卡通",金鹰卡通
+http://192.168.1.8:4022/udp/239.45.3.119:5140
